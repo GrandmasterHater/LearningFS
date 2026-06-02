@@ -13,6 +13,7 @@
         <Compile Include="Task5\Task5.fs" />
         <Compile Include="Task6\Task6.fs" />
         <Compile Include="Task7\Task7.fs" />
+        <Compile Include="Task8\Task8.fs" />
     </ItemGroup>
 
 </Project>
