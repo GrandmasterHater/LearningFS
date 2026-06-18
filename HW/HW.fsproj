@@ -25,6 +25,7 @@
         <Compile Include="Task17\Task17.fs" />
         <Compile Include="Task18\Task18.fs" />
         <Compile Include="Task19\Task19.fs" />
+        <Compile Include="Task20\Task20.fs" />
     </ItemGroup>
 
 </Project>
